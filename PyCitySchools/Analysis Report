@@ -1,5 +1,7 @@
 Summary: 
-The data provided in this analysis observes the overall test results of schools, district-wide. The data narrows down from district summart to individual school summary. The highest performing schools and lowest performaing schools are then calculated and observed based on % overall passing.  
+The data provided in this analysis observes the overall test results of schools, district-wide. The data narrows down from district summart to individual school summary. 
+The highest performing schools and lowest performaing schools are then calculated and observed based on % overall passing. To get a better understanding, math scores and reading scores are
+then calculated by grade. This data also aims to break down school performance based on average spending ranges, school size and school type. 
 
 
 Draws two correct conclusions or comparisons from the calculations:
